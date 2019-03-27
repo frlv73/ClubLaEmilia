@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: club-web
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Leonel
+Implementation-Vendor-Id: com.proyectofinal
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/club/club-web
+Created-By: Maven Integration for Eclipse
+
